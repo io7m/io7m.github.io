@@ -4,9 +4,9 @@ cat <<EOF
 <table class="builds">
   <thead>
     <th>Project</th>
-    <th>OpenJDK LTS, Linux</th>
-    <th>OpenJDK Current, Linux</th>
-    <th>OpenJDK Current, Windows</th>
+    <th>OpenJDK 11, Linux</th>
+    <th>OpenJDK 15, Linux</th>
+    <th>OpenJDK 15, Windows</th>
   </thead>
   <tbody>
 EOF

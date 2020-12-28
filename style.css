@@ -1,6 +1,7 @@
 body {
   padding-left: 1em;
   padding-bottom: 1em;
+  font-family: monospace;
 }
 
 p {
@@ -24,5 +25,17 @@ td {
 
 .builds {
   margin-top: 2em;
+}
+
+.builds th
+{
+  vertical-align: top;
+}
+
+.builds td
+{
+  text-align: left;
+  vertical-align: top;
+  width: 12em;
 }
 
