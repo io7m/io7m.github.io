@@ -1,13 +1,14 @@
 #!/bin/sh
 
 cat <<EOF
-<table>
+<table class="builds">
   <thead>
     <th>Project</th>
     <th>OpenJDK LTS, Linux</th>
     <th>OpenJDK Current, Linux</th>
     <th>OpenJDK Current, Windows</th>
   </thead>
+  <tbody>
 EOF
 
 for PROJECT in $(cat active.txt)
@@ -23,5 +24,6 @@ EOF
 done
 
 cat <<EOF
+  </tbody>
 </table>
 EOF
