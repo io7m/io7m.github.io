@@ -61,6 +61,7 @@ jxe
 minisite
 modulechaser
 olivebench
+oxicoco
 pallene
 primogenitor
 readme
