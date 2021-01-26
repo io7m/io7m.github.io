@@ -64,6 +64,7 @@ modulechaser
 olivebench
 oxicoco
 pallene
+percentpass
 primogenitor
 readme
 scando
