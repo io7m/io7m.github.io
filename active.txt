@@ -58,6 +58,7 @@ junsigned
 jwheatsheaf
 jwhere
 jxe
+jxtrand
 minisite
 modulechaser
 olivebench
