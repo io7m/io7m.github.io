@@ -11,6 +11,7 @@ ethermaker
 flail
 gtyrell
 halite
+historian
 ieee754b16
 jaccord
 jade
@@ -50,7 +51,6 @@ jserial
 jspatial
 jspearmint
 jspiel
-jstructural
 jsx
 jsycamore
 jtensors
