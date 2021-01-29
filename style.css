@@ -39,3 +39,8 @@ td {
   width: 12em;
 }
 
+.builds td:nth-child(1)
+{
+  width: 24em;
+}
+

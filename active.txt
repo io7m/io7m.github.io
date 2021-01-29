@@ -21,6 +21,7 @@ jcip-annotations
 jcoords
 jcoronado
 jdae
+jdextrosa
 jdownload
 jequality
 jeucreader
@@ -55,6 +56,7 @@ jsycamore
 jtensors
 junreachable
 junsigned
+jvgm
 jwheatsheaf
 jwhere
 jxe
