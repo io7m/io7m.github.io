@@ -24,6 +24,7 @@ jcip-annotations
 jcoords
 jcoronado
 jdae
+jdeferthrow
 jdextrosa
 jdownload
 jequality
