@@ -4,6 +4,8 @@ blackthorne
 bodyrecomp
 boxwood
 brooklime
+calino
+cardant
 cedarbridge
 changelog
 checkstyle_rules
@@ -18,6 +20,7 @@ ieee754b16
 jaccord
 jade
 jaffirm
+jarabica
 jbssio
 jcathinone
 jcip-annotations
