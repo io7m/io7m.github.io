@@ -11,6 +11,7 @@ changelog
 checkstyle_rules
 claypot
 coffeepick
+dixmont
 ethermaker
 flail
 gtyrell
@@ -80,6 +81,7 @@ sigiltron
 smf
 string-template-maven-plugin
 timehack6435126
+trasco
 wastebasket
 waxmill
 xstructural
