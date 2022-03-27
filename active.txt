@@ -25,6 +25,7 @@ jarabica
 jbssio
 jcathinone
 jcip-annotations
+jcolorspace
 jcoords
 jcoronado
 jdae
