@@ -5,9 +5,9 @@ cat <<EOF
   <thead>
     <tr>
       <th>Project</th>
-      <th>OpenJDK 11, Linux</th>
-      <th>OpenJDK 15, Linux</th>
-      <th>OpenJDK 15, Windows</th>
+      <th>OpenJDK LTS, Linux</th>
+      <th>OpenJDK Current, Linux</th>
+      <th>OpenJDK Current, Windows</th>
     </tr>
   </thead>
   <tbody>
