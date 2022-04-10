@@ -23,6 +23,7 @@ jade
 jaffirm
 jarabica
 jbssio
+jcamera
 jcathinone
 jcip-annotations
 jcolorspace
